@@ -1,1 +1,3 @@
 Hello World!
+*Added to staging environment!
+*Changes in new branch
